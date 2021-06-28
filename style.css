@@ -172,6 +172,7 @@ body {
 .package-card {
     width: 23%;
     background-color: white;
+    border-radius: 10px;
 }
 
 .package-card:hover {
