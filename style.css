@@ -271,6 +271,18 @@ body {
     padding: 25px;
 }
 
+
+/* mobile nav items */
+
+a {
+    text-decoration: none;
+}
+
+.mobile-nav-items {
+    list-style: none;
+    padding: 1rem 0 0 0;
+}
+
 @media only screen and (max-width: 1143px) {
     .nav-list {
         display: none;
